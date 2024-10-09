@@ -1,0 +1,20 @@
+*{
+    box-sizing: border-box;
+    background-color: black;
+}
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+}
+p{
+    color: whitesmoke;
+    margin: 50px auto;
+    
+}
+input, button{
+    color: white;
+    background-color: blue;
+}
